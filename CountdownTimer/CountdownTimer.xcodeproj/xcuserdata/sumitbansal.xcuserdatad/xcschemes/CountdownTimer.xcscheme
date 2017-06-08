@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C13F96881EE681A700F4FA87"
-               BuildableName = "HelloWorld.app"
-               BlueprintName = "HelloWorld"
-               ReferencedContainer = "container:HelloWorld.xcodeproj">
+               BlueprintIdentifier = "C1EE3B921EE91EA200EF0D92"
+               BuildableName = "CountdownTimer.app"
+               BlueprintName = "CountdownTimer"
+               ReferencedContainer = "container:CountdownTimer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C13F96881EE681A700F4FA87"
-            BuildableName = "HelloWorld.app"
-            BlueprintName = "HelloWorld"
-            ReferencedContainer = "container:HelloWorld.xcodeproj">
+            BlueprintIdentifier = "C1EE3B921EE91EA200EF0D92"
+            BuildableName = "CountdownTimer.app"
+            BlueprintName = "CountdownTimer"
+            ReferencedContainer = "container:CountdownTimer.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C13F96881EE681A700F4FA87"
-            BuildableName = "HelloWorld.app"
-            BlueprintName = "HelloWorld"
-            ReferencedContainer = "container:HelloWorld.xcodeproj">
+            BlueprintIdentifier = "C1EE3B921EE91EA200EF0D92"
+            BuildableName = "CountdownTimer.app"
+            BlueprintName = "CountdownTimer"
+            ReferencedContainer = "container:CountdownTimer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C13F96881EE681A700F4FA87"
-            BuildableName = "HelloWorld.app"
-            BlueprintName = "HelloWorld"
-            ReferencedContainer = "container:HelloWorld.xcodeproj">
+            BlueprintIdentifier = "C1EE3B921EE91EA200EF0D92"
+            BuildableName = "CountdownTimer.app"
+            BlueprintName = "CountdownTimer"
+            ReferencedContainer = "container:CountdownTimer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
